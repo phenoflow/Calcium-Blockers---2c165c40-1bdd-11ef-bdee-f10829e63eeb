@@ -1,0 +1,285 @@
+inputModule1:
+  class: File
+  path: js/read-potential-cases-omop.js
+inputModule2:
+  class: File
+  path: python/calcium-blockers-berkatens---primary.py
+inputModule3:
+  class: File
+  path: python/calcium-blockers-adizemxl---primary.py
+inputModule4:
+  class: File
+  path: python/calcium-blockers-125mg---primary.py
+inputModule5:
+  class: File
+  path: python/calcium-blockers-adipine---primary.py
+inputModule6:
+  class: File
+  path: python/calcium-blockers-360mg---primary.py
+inputModule7:
+  class: File
+  path: python/calcium-blockers-150mg---primary.py
+inputModule8:
+  class: File
+  path: python/calcium-blockers-100mg---primary.py
+inputModule9:
+  class: File
+  path: python/calcium-blockers-coracten---primary.py
+inputModule10:
+  class: File
+  path: python/calcium-blockers-dilzem---primary.py
+inputModule11:
+  class: File
+  path: python/calcium-blockers-ampoule---primary.py
+inputModule12:
+  class: File
+  path: python/calcium-blockers-120mg---primary.py
+inputModule13:
+  class: File
+  path: python/calcium-blockers-dilcardia---primary.py
+inputModule14:
+  class: File
+  path: python/calcium-blockers-cabren---primary.py
+inputModule15:
+  class: File
+  path: python/calcium-blockers-betaadalat---primary.py
+inputModule16:
+  class: File
+  path: python/calcium-blockers-slozem---primary.py
+inputModule17:
+  class: File
+  path: python/calcium-blockers-nicardipine---primary.py
+inputModule18:
+  class: File
+  path: python/calcium-blockers-ointment---primary.py
+inputModule19:
+  class: File
+  path: python/calcium-blockers-exforge---primary.py
+inputModule20:
+  class: File
+  path: python/calcium-blockers-modifiedrelease---primary.py
+inputModule21:
+  class: File
+  path: python/calcium-blockers-diltiazem---primary.py
+inputModule22:
+  class: File
+  path: python/calcium-blockers-istin---primary.py
+inputModule23:
+  class: File
+  path: python/calcium-blockers-optil---primary.py
+inputModule24:
+  class: File
+  path: python/calcium-blockers-motens---primary.py
+inputModule25:
+  class: File
+  path: python/calcium-blockers-viazem---primary.py
+inputModule26:
+  class: File
+  path: python/calcium-blockers-240mg---primary.py
+inputModule27:
+  class: File
+  path: python/calcium-blockers-disogram---primary.py
+inputModule28:
+  class: File
+  path: python/calcium-blockers-veratil---primary.py
+inputModule29:
+  class: File
+  path: python/calcium-blockers-cardioplen---primary.py
+inputModule30:
+  class: File
+  path: python/calcium-blockers-cardene---primary.py
+inputModule31:
+  class: File
+  path: python/calcium-blockers-plendil---primary.py
+inputModule32:
+  class: File
+  path: python/calcium-blockers-cordilox---primary.py
+inputModule33:
+  class: File
+  path: python/calcium-blockers-amlostin---primary.py
+inputModule34:
+  class: File
+  path: python/calcium-blockers-angitil---primary.py
+inputModule35:
+  class: File
+  path: python/calcium-blockers-200mg---primary.py
+inputModule36:
+  class: File
+  path: python/calcium-blockers-300mg---primary.py
+inputModule37:
+  class: File
+  path: python/calcium-blockers-lacidipine---primary.py
+inputModule38:
+  class: File
+  path: python/calcium-blockers-tildiem---primary.py
+inputModule39:
+  class: File
+  path: python/calcium-blockers-cardilate---primary.py
+inputModule40:
+  class: File
+  path: python/calcium-blockers-besilate---primary.py
+inputModule41:
+  class: File
+  path: python/calcium-blockers-bicarzem---primary.py
+inputModule42:
+  class: File
+  path: python/calcium-blockers-erbumine---primary.py
+inputModule43:
+  class: File
+  path: python/calcium-blockers-valsartan---primary.py
+inputModule44:
+  class: File
+  path: python/calcium-blockers-calanif---primary.py
+inputModule45:
+  class: File
+  path: python/calcium-blockers-verapamil---primary.py
+inputModule46:
+  class: File
+  path: python/calcium-blockers-adizemsr---primary.py
+inputModule47:
+  class: File
+  path: python/calcium-blockers-160mg---primary.py
+inputModule48:
+  class: File
+  path: python/calcium-blockers-180mg---primary.py
+inputModule49:
+  class: File
+  path: python/hypolar-calcium-blockers---primary.py
+inputModule50:
+  class: File
+  path: python/calcium-blockers-felendil---primary.py
+inputModule51:
+  class: File
+  path: python/calcium-blockers-securon---primary.py
+inputModule52:
+  class: File
+  path: python/anoheal-calcium-blockers---primary.py
+inputModule53:
+  class: File
+  path: python/calcium-blockers-valni---primary.py
+inputModule54:
+  class: File
+  path: python/calcium-blockers-univer---primary.py
+inputModule55:
+  class: File
+  path: python/calcium-blockers-capsule---primary.py
+inputModule56:
+  class: File
+  path: python/calcium-blockers-trandolapril---primary.py
+inputModule57:
+  class: File
+  path: python/calcium-blockers-zemret---primary.py
+inputModule58:
+  class: File
+  path: python/calcium-blockers-hydrochlorothiazide---primary.py
+inputModule59:
+  class: File
+  path: python/calcium-blockers-kenzem---primary.py
+inputModule60:
+  class: File
+  path: python/calcium-blockers-adanif---primary.py
+inputModule61:
+  class: File
+  path: python/calcium-blockers-syscor---primary.py
+inputModule62:
+  class: File
+  path: python/calcium-blockers-solution---primary.py
+inputModule63:
+  class: File
+  path: python/calcium-blockers-tensipine---primary.py
+inputModule64:
+  class: File
+  path: python/calcium-blockers-zanidip---primary.py
+inputModule65:
+  class: File
+  path: python/calcium-blockers-vascalpha---primary.py
+inputModule66:
+  class: File
+  path: python/calcium-blockers-sugar---primary.py
+inputModule67:
+  class: File
+  path: python/calcium-blockers-slofedipine---primary.py
+inputModule68:
+  class: File
+  path: python/calcium-blockers-nivaten---primary.py
+inputModule69:
+  class: File
+  path: python/calcium-blockers-angiopine---primary.py
+inputModule70:
+  class: File
+  path: python/calcium-blockers-triapin---primary.py
+inputModule71:
+  class: File
+  path: python/calcium-blockers-verapress---primary.py
+inputModule72:
+  class: File
+  path: python/calcium-blockers-calchan---primary.py
+inputModule73:
+  class: File
+  path: python/calcium-blockers-cream---primary.py
+inputModule74:
+  class: File
+  path: python/calcium-blockers-neofel---primary.py
+inputModule75:
+  class: File
+  path: python/calcium-blockers-zemtard---primary.py
+inputModule76:
+  class: File
+  path: python/calcium-blockers-parmid---primary.py
+inputModule77:
+  class: File
+  path: python/calcium-blockers-felogen---primary.py
+inputModule78:
+  class: File
+  path: python/calcium-blockers-angiozem---primary.py
+inputModule79:
+  class: File
+  path: python/calcium-blockers-mibefradil---primary.py
+inputModule80:
+  class: File
+  path: python/calcium-blockers-felotens---primary.py
+inputModule81:
+  class: File
+  path: python/calcium-blockers-ramipril---primary.py
+inputModule82:
+  class: File
+  path: python/calcium-blockers-nisoldipine---primary.py
+inputModule83:
+  class: File
+  path: python/calcium-blockers-zildil---primary.py
+inputModule84:
+  class: File
+  path: python/calcium-blockers-nifedipress---primary.py
+inputModule85:
+  class: File
+  path: python/calcium-blockers-injection---primary.py
+inputModule86:
+  class: File
+  path: python/calcium-blockers-suspension---primary.py
+inputModule87:
+  class: File
+  path: python/calcium-blockers-maleate---primary.py
+inputModule88:
+  class: File
+  path: python/calcium-blockers-medoxomil---primary.py
+inputModule89:
+  class: File
+  path: python/calcium-blockers-calcicard---primary.py
+inputModule90:
+  class: File
+  path: python/calcium-blockers-nifopress---primary.py
+inputModule91:
+  class: File
+  path: python/calcium-blockers-neozipine---primary.py
+inputModule92:
+  class: File
+  path: python/calcium-blockers-posicor---primary.py
+inputModule93:
+  class: File
+  path: python/calcium-blockers-nimodrel---primary.py
+inputModule94:
+  class: File
+  path: python/calcium-blockers-tablet---primary.py
+inputModule95:
+  class: File
+  path: python/output-cases.py
